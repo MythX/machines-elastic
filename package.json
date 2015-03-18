@@ -1,6 +1,6 @@
 {
   "name": "machines-elasticsearch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use elasticSearch API",
   "keywords": [
     "elasticSearch",
@@ -9,6 +9,10 @@
   ],
   "author": "Antoine Moser",
   "licence": "MIT",
+  "repository" : { 
+    "type" : "git",
+    "url" : "http://github.com/MythX/machines-elasticsearch.git"
+  },
   "machinepack": {
     "friendlyName": "ElasticSearch",
     "machineDir": "machines/",
