@@ -45,7 +45,7 @@ module.exports = {
       description: 'Unexpected error occurred.',
     },
     couldNotConnect: {
-      description: 'Could not connect to ElasticSearch at the provided hostname and port',
+
     },
     noSuchIndex: {
       description: 'The specified index does not exist.'
