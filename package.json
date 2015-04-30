@@ -26,7 +26,8 @@
     "machineDir": "machines/",
     "machines": [
       "searchCustom",
-      "search"
+      "search",
+      "getAlias"
     ]
   }
 }
