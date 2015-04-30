@@ -68,7 +68,7 @@ module.exports = {
     });
 
     client.search({
-      _source: false,
+      _source: true,
       index: inputs.index,
       body: inputs.query,
       type: inputs.type,
