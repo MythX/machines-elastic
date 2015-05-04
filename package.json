@@ -28,7 +28,8 @@
       "searchCustom",
       "search",
       "getAlias",
-      "deleteByQuery"
+      "deleteByQuery",
+      "updateAliases"
     ]
   }
 }
