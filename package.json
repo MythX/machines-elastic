@@ -29,7 +29,8 @@
       "search",
       "getAlias",
       "deleteByQuery",
-      "updateAliases"
+      "updateAliases",
+      "bulk"
     ]
   }
 }
