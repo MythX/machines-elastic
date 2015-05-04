@@ -27,7 +27,8 @@
     "machines": [
       "searchCustom",
       "search",
-      "getAlias"
+      "getAlias",
+      "updateAliases"
     ]
   }
 }
